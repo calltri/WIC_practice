@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a common file for you to butcher.
 :D
+=======
+bloop
+>>>>>>> main
